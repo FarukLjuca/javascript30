@@ -1,0 +1,33 @@
+#circleContainer {
+	width: 200px;
+	height: 200px;
+	margin: 0 auto;
+	margin-top: 200px;
+	border-radius: 110px;
+	border: 10px solid black;
+}
+
+.cursor {
+	height: 10px;
+	background: black;
+	border-radius: 5px;
+	margin-top: 95px;
+	position: absolute;
+	transform-origin: 95% 50%;
+	transition: all 0.4s;
+}
+
+#hoursCursor {
+	width: 70px;
+	margin-left: 35px;
+}
+
+#minutesCursor {
+	width: 80px;
+	margin-left: 25px;
+}
+
+#secondsCursor {
+	width: 90px;
+	margin-left: 15px;
+}
