@@ -26,14 +26,14 @@ for (var i = 0; i < buttonKeys.length; i++) {
 
 	button.innerHTML = buttonKeys[i]
 
-	button.addEventListener('click', event => {
+	button.addEventListener('click', function(event) {
 		playSound(event.target.innerHTML)
 	})
 
 	root.appendChild(button)
 }
 
-document.addEventListener('keydown', event => {
+document.addEventListener('keydown', function(event) {
 	if (buttonKeys.indexOf(event.key) !== -1)
 		playSound(event.key)
 })
