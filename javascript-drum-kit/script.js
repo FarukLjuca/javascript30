@@ -23,6 +23,7 @@ var root = document.getElementById('root')
 
 for (var i = 0; i < buttonKeys.length; i++) {
 	var button = document.createElement('button')
+	button.className = 'button'
 
 	button.innerHTML = buttonKeys[i]
 
