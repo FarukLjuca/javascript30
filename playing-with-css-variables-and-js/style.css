@@ -1,0 +1,20 @@
+:root {
+  --base-color:#00cc00;
+  --spacing:20px;
+  --blur:9px;
+}
+
+.image-container {
+	padding: var(--spacing);
+	background: var(--base-color);
+	display: inline-block;
+}
+
+.base-color-text {
+	color: var(--base-color);
+}
+
+.image {
+	-webkit-filter: blur(var(--blur));
+	filter: blur(var(--blur));
+}
