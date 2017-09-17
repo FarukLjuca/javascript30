@@ -6,7 +6,7 @@ colorPicker.value = window.getComputedStyle(document.documentElement).getPropert
 spacingSlider.value = parseInt(window.getComputedStyle(document.documentElement).getPropertyValue('--spacing'), 10)
 blurSlider.value = parseInt(window.getComputedStyle(document.documentElement).getPropertyValue('--blur'), 10)
 
-colorPicker.addEventListener('change', function(event) {
+colorPicker.addEventListener('input', function(event) {
 	 document.documentElement.style.setProperty('--base-color', event.target.value)
 })
 
