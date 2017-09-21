@@ -6,6 +6,7 @@
 ### 3. [Playing with CSS variables and JS](https://farukljuca.github.io/javascript30/playing-with-css-variables-and-js)
 ### 4. [Array Cardio Day 1](https://farukljuca.github.io/javascript30/array-cardio-day-1/)
 ### 5. [Flex Panels Image Gallery](https://farukljuca.github.io/javascript30/flex-panels-image-gallery)
+### 6. [Array Type Ahead](https://farukljuca.github.io/javascript30/ajax-type-ahead)
 
 &nbsp;
 &nbsp;
