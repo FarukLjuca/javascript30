@@ -1,0 +1,22 @@
+html, body {
+	height: 100%;
+	margin: 0;
+}
+
+body {
+	display: flex;
+	flex-direction: column;
+}
+
+h1 {
+	border-bottom: 1px solid black;
+	margin: 0;
+	width: 100%;
+	text-align: center;
+}
+
+#canvas {
+	width: 100%;
+	flex: 1;
+	cursor: crosshair;
+}

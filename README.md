@@ -7,6 +7,8 @@
 ### 4. [Array Cardio Day 1](https://farukljuca.github.io/javascript30/array-cardio-day-1/)
 ### 5. [Flex Panels Image Gallery](https://farukljuca.github.io/javascript30/flex-panels-image-gallery)
 ### 6. [Array Type Ahead](https://farukljuca.github.io/javascript30/ajax-type-ahead)
+### 7. [Array Cardio Day 2](https://farukljuca.github.io/javascript30/array-cardio-day-2/)
+### 8. [Fun With HTML5 Canvas](https://farukljuca.github.io/javascript30/fun-with-html5-canvas)
 
 &nbsp;
 &nbsp;
