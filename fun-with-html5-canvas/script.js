@@ -15,9 +15,10 @@ var bMode
 var radius = 20
 var mode = 1
 
-function draw() {
+function draw(event) {
 	if (shouldDraw) {
 		context.beginPath()
+		if(!event) event = window.event // Fix for firefox
 
 		var x = event.clientX || event.changedTouches[0].clientX
 		var y = event.clientY || event.changedTouches[0].clientY
@@ -45,7 +46,7 @@ canvas.addEventListener('mouseout', function(event) {
 })
 
 canvas.addEventListener('mousemove', function(event) {
-	draw()
+	draw(event)
 })
 
 canvas.addEventListener('touchstart', function(event) {
@@ -61,7 +62,7 @@ canvas.addEventListener('touchcancel', function(event) {
 })
 
 canvas.addEventListener('touchmove', function(event) {
-	draw()
+	draw(event)
 })
 
 setInterval(() => {
