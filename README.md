@@ -10,7 +10,7 @@
 ### 7.  [Array Cardio Day 2](https://farukljuca.github.io/javascript30/array-cardio-day-2/)
 ### 8.  [Fun With HTML5 Canvas](https://farukljuca.github.io/javascript30/fun-with-html5-canvas)
 ### 9.  [14 Must Know Dev Tools Tricks](https://farukljuca.github.io/javascript30/just-video)
-### 10. [Hold Shift to Check Multiple Checkboxes](https://farukljuca.github.io/javascript/hold_shift_to_check_multiple_checkboxes)
+### 10. [Hold Shift to Check Multiple Checkboxes](https://farukljuca.github.io/javascript30/hold_shift_to_check_multiple_checkboxes)
 
 &nbsp;
 &nbsp;
