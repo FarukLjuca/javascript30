@@ -12,6 +12,7 @@
 ### 9.  [14 Must Know Dev Tools Tricks](https://farukljuca.github.io/javascript30/just-video)
 ### 10. [Hold Shift to Check Multiple Checkboxes](https://farukljuca.github.io/javascript30/hold_shift_to_check_multiple_checkboxes)
 
+### 29. [Countdown Clock](https://farukljuca.github.io/javascript30/countdown-clock/)
 ### 30. [Whack A Mole Game](https://farukljuca.github.io/javascript30/whack-a-mole/)
 
 &nbsp;
